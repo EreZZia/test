@@ -2,4 +2,4 @@ import numpy as np
 
 print("ahoj")
 
-print("mára je megapeň a jowák to ví")
+print("m??ra je megape?? a jow??k to v??++dawd")
